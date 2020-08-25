@@ -20,7 +20,7 @@ The final result is:
 
 ![Image](https://media.giphy.com/media/KFV4HgS7VEmrTbcwjJ/giphy.gif)
 
-## Instalation
+## Installation
 ### Dependencies needed
 
 * cmake >= 3.14

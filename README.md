@@ -21,7 +21,7 @@ The final result is:
 ![Image](https://media.giphy.com/media/KFV4HgS7VEmrTbcwjJ/giphy.gif)
 
 ## Instalation
-### Dependenies needed
+### Dependencies needed
 
 * cmake >= 3.14
 * gcc/g++ >= 8.0
